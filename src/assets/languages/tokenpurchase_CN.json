@@ -1,0 +1,19 @@
+{ 
+  "crypto":"BNB",
+  "fiat":"ACH/CHECK",
+  "buyTokens":"购买代币",
+  "buyTokensMustConnect":"购买代币 (必须连接)",
+  "crowdsaleTitle": "预售",
+  "priceIsApproximate":"价格是近似值",
+  "inventoryLabel":"存货:",
+  "usdFieldNote":"(bnb价格将根据KYP字段计算)",
+  "presaleWarningLine1":"通过预售购买的所有代币均以BNB购买。",
+  "presaleWarningLine2":"代币将根据BNB的即时价格分配。",
+
+  "disconnected":"Disconnected",
+  "fullName":"Full Name",
+  "purchasePrice":"Purchase Price",
+  "emailAddress":"Email Address",
+  "lpyWalletLabel":"LPY Wallet (BSC)"
+
+}

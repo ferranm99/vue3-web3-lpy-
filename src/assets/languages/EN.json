@@ -1,0 +1,413 @@
+{
+  "navbar": {
+    "signupButtonText": "Sign Up",
+    "menuItems": {
+      "Home": {
+        "text": "Home",
+        "route": true
+      },
+      "Token": {
+        "text": "Token",
+        "route": true
+      },
+      "Staking": {
+        "text": "Staking",
+        "route": true
+      },
+      "Brand": {
+        "text": "Co-Branded Cards",
+        "route": true
+      },
+      "Update": {
+        "text": "News & Updates",
+        "route": true
+      },
+      "Roadmap": {
+        "text": "Roadmap",
+        "route": true
+      },
+      "Partner": {
+        "text": "Partner",
+        "route": true
+      }
+    }
+  },
+  "home": {
+    "header": {
+      "title": "Start Accepting Blockchain Payments Today",
+      "body": "Open a Merchant Account With LeisurePay and Receive $1,000 in LPY Tokens on Your First Statement",
+      "list": [
+        "Full-service merchant service provider",
+        "Easy to purchase tokens",
+        "Blockchain payment processing technology",
+        "Payment processing done right",
+        "Low rates and fast approvals",
+        "No hidden or surprise fees",
+        "Free cost comparison",
+        "Perfect for new and existing businesses"
+      ],
+      "quoteButtonText": "Get a Quote Now"
+    },
+    "content": {
+      "solution": {
+        "title": "LeisurePay Is Your Blockchain Technology Payment Solution",
+        "content": "LeisurePay is powered by the only wholly black-owned bank in America. We are bringing blockchain and tokenization solutions to merchants who seek fast, safe, and effective payment solutions. Backed by our token LPY, we are dedicated to helping minority-owned merchants access low-cost and no-cost banking and payment solutions. Together we can make a change!"
+      },
+      "process": {
+        "title": "Processing Your Customer Payments Does Not Have to Be Hard",
+        "content": "Merchant accounts can be difficult to obtain, especially for businesses owned by minorities and those operating in non-traditional economies. By working directly with LeisurePay, you can have a trusted partner who understands risk and can adapt to change quickly.",
+        "offers": [
+          {
+            "title": "24-hour approval",
+            "content": "Complete your application and provide the KYC documentation, and we will have you approved in a day."
+          },
+          {
+            "title": "Unmatched support",
+            "content": "Stop stressing about your merchant accounts – we have it all covered, from chargeback management to bank sponsorships, including past, present, and future merchants accounts."
+          },
+          {
+            "title": "Dedicated payment experts",
+            "content": "With our full-service merchant accounts, we become your company’s full-time payment specialist. Our white glove support handles all of your past, current, and future payment needs."
+          }
+        ]
+      }
+    }
+  },
+  "token": {
+    "header": {
+      "title": "Together We Can Make Change",
+      "body": "Through our Cryptocurrency ecosystem our goal is to bring truth in payment networks and weed out fraud. Join the fight and together we can make change.",
+      "headerButtonText": "View Lite Paper",
+      "headerButtonUrl": "https://drive.google.com/file/d/1thieaMdzg_NDVeZxtyCd5cjEBfYIVTG1/view"
+    },
+    "content": {
+      "supply": {
+        "title": "Learn About $LPY",
+        "body": "Total supply: 10 billion",
+        "tagline": "51% available for private sale"
+      },
+      "allocations": [
+        {
+          "percent": "40",
+          "title": "marketing and promotion",
+          "bgColor": "#dcec82"
+        },
+        {
+          "percent": "20",
+          "title": "management and legal",
+          "bgColor": "#bde1e6"
+        },
+        {
+          "percent": "20",
+          "title": "bank development",
+          "bgColor": "#fae6c9"
+        },
+        {
+          "percent": "10",
+          "bgColor": "#e8e3f6",
+          "title": "maintained reserved"
+        },
+        {
+          "percent": "10",
+          "bgColor": "#f9fcbd",
+          "title": "system develoment"
+        }
+      ],
+      "purchase": {
+        "title": "Why You Should Purchase LeisurePay Tokens",
+        "list": [
+          "Industry-leading payment team",
+          "Profitable company",
+          "Over 2B+ in merchant portfolios going live by 12.30.22",
+          "Partners with the first black acquirer in U.S. history!",
+          "The only wholly black-owned bank in the U.S.",
+          "Patent-pending technology",
+          "50% merchant discount on fees when using $LPY"
+        ],
+        "signUpButtonText": "Buy $LPY Now"
+      },
+      "progress": {
+        "title": "LeisurePay Milestones",
+        "milestones": [
+          {
+            "month": "OCT",
+            "year": "2020",
+            "content": "Bank agreement formally signed."
+          },
+          {
+            "month": "JAN",
+            "year": "2021",
+            "content": "Bank signs technology processor to acquire a BIN and expand network access."
+          },
+          {
+            "month": "AUG",
+            "year": "2021",
+            "content": "Testing completed for creation of RCC/ECI file and of Plaid."
+          },
+          {
+            "month": "SEP",
+            "year": "2021",
+            "content": "First merchants onboarded to the new bank technology platform."
+          }
+        ],
+        "viewBlogsButtonText": "View All Blogs"
+      },
+      "journey": {
+        "title": "LeisurePay Journey",
+        "description": "Our pathway to public exchange access of the Leisure Pay $LPY Token.",
+        "timeline": [
+          {
+            "quarter": "4",
+            "year": "2021",
+            "content": "Launch of LeisurePay token in a private sale."
+          },
+          {
+            "quarter": "4",
+            "year": "2021",
+            "content": "In Talks with Multiple Exchanges."
+          },
+          {
+            "quarter": "1",
+            "year": "2022",
+            "content": "Signed IEO, Listing on First CEX."
+          },
+          {
+            "quarter": "1",
+            "year": "2022",
+            "content": "Listing on Second Exchange 7 days after IEO."
+          }
+        ]
+      },
+      "discover": {
+        "title": "Leisure Pay $LPY",
+        "content": "Join the community and support the cause",
+        "getStartedButtonText": "Buy Now"
+      }
+    }
+  },
+  "staking": {
+    "header": {
+      "title": "Earn Rewards By Staking $LPY",
+      "body": "Put your crypto to work and start earning rewards on it. Staking $LPY is a secure, profitable way to maximize your coin holdings that would otherwise be sitting in your LPY account. Once you have staked your assets, you can earn staking rewards on top of your holdings. Then, keep the growth going by compounding those future rewards.",
+      "quoteButtonText": "Speak to a Staking Specialist Now"
+    },
+    "content": {
+      "title": "What Are Staking Rewards?",
+      "easy": [
+        {
+          "title": "Select a staking amount"
+        },
+        {
+          "title": "Choose a staking plan"
+        },
+        {
+          "title": "Earn rewards"
+        }
+      ],
+      "description": "You can earn rewards when you stake LeisurePay tokens for a period of time as an incentive to acquire & hold onto the LeisurePay token. To earn staking rewards, simply select the terms you wish to stake and a LeisurePay representative will contact you with your staking contract.",
+      "rewardMonthlyStaking": "MONTH STAKING",
+      "rewardYearlyRewards": "Yearly Reward",
+      "rewards": [
+        {
+          "percent": "12%",
+          "color": "#0033ad",
+          "number": "6"
+        },
+        {
+          "percent": "20%",
+          "color": "#e6007a",
+          "number": "9"
+        },
+        {
+          "percent": "50%",
+          "color": "#d83aeb",
+          "number": "12"
+        }
+      ],
+      "footer": "Staking is your way to earn rewards for holding your LeisurePay. The more you buy and stake, the more you earn!"
+    }
+  },
+  "brand": {
+    "header": {
+      "title": "Company Branded and Co-Branded Cards",
+      "body": "Gain the security of cryptocurrency and blockchain technology with the convenience of a branded or co-branded card from LeisurePay. Enjoy rewards for everyday spending and earn points. Learn more by contacting a specialist today.",
+      "quoteButtonText": "Get a Quote"
+    },
+    "content": {
+      "title": "COMPANY BRANDED AND CO-BRANDED CARDS",
+      "body": [
+        {
+          "title": "Partner With LeisurePay for Your Own Branded Card",
+          "description": "",
+          "content": "Attract new customers and extend your brand’s reach with branded card options from LeisurePay. Increase sales while delivering outstanding value to your most loyal customers. LeisurePay makes the whole process simple – contact us today to learn more."
+        },
+        {
+          "title": "Co-Branded Cards Issued by LeisurePay",
+          "description": "LeisurePay can help empower your card program.",
+          "content": "Draw on LeisurePay's industry expertise to help your co-brand program succeed. Extend incredible value and convenience to your customers while relying on LeisurePay’s rock-solid financial backing and payments network"
+        }
+      ],
+      "contactUsButtonText": "Speak to a Card Specialist Now"
+    },
+    "faq": {
+      "title": "FREQUENTLY ASKED QUESTIONS",
+      "description": "Get the answers you need about building loyalty programs with LeisurePay.",
+      "qaList": [
+        {
+          "q": "How do I get a credit card with my company name and logo on it?",
+          "a": "Since we are partnered with a Card issuing bank LeisurePay is able to provide a full service product launch. Merchants should plan on a minimum of eight weeks in order to launch a program; however, timing depends on a number of factors including the issuer, schedules and the complexity of the program. To get started merchants should do the following steps:",
+          "details": [
+            "Develop a business plan outlining the estimated size and demographics of your existing customer base.",
+            "Outline the key benefits that will distinguish your co-brand card in the market.",
+            "Contact a LeisurePay representative today."
+          ]
+        },
+        {
+          "q": "What are Co-Branded partnerships?",
+          "a": "A co-brand program is a three-party partnership between a merchant, a network, and an issuer. The co-branded card will usually contain the merchant’s or brand’s name, logo, and other identifying features. It will also provide specific benefits and rewards that are only available to cardholders.",
+          "details": []
+        },
+        {
+          "q": "How is LeisurePay involved in the Co-Branded process?",
+          "a": "LeisurePay will work with both the merchant and our issuer to launch and grow a successful co-branded card. Our streamlined process means we can get your branded card rolled out faster than most competitors.",
+          "details": []
+        },
+        {
+          "q": "Is my business large enough for the Leisurepay Co-Branded program?",
+          "a": "Because of flexible options, a business of almost any size is able to launch a co-branded card. For small companies, the benefits can be even larger, since the co-branded card gives you instant status and credibility.",
+          "details": []
+        }
+      ]
+    },
+    "contact": {
+      "title": "Speak With a Branded and Co-Branded Card Specialist Now",
+      "getStartedButtonText": "Get Started"
+    }
+  },
+  "update": {
+    "header": {
+      "title": "NEWS & UPDATES",
+      "body": "Official news and updates released publicly. All the latest in what LeisurePay is doing in the community, and where we are headed can be found below."
+    },
+    "content": {
+      "title": "NEWS & UPDATES",
+      "articles": [
+        {
+          "title": "Announcing the $LPY token swap",
+          "description": "To prepare for our upcoming duel CEX listings, staking, and to accelerate our pathway towards decentralized payments, we are announcing a smart contract upgrade and token swap due to take place on the 28th of January 2022.\n\nWe have updated our token and its smart contract address to the new version. V2 token will be listed...",
+          "day": "29",
+          "month": "JAN",
+          "image": "medium",
+          "link": "https://leisurepay.medium.com/announcing-the-lpy-token-swap-4b2d75bb7ef2"
+        },
+        {
+          "title": "Using Blockchain Technology to Prevent Fraud",
+          "description": "Enhanced security is a leading benefit of blockchain technology. One of the underlying drivers behind its increasing popularity is its ability to share data in a fast and highly secure way, without any one entity having to assume responsibility for safeguarding the data.Today we’ll take a closer look at blockchain technology and.....",
+          "day": "05",
+          "month": "JAN",
+          "image": "medium",
+          "link": "https://leisurepay.medium.com/using-blockchain-technology-to-prevent-fraud-e201dfbd574"
+        },
+        {
+          "title": "Friendly Fraud: The Years Ahead",
+          "description": "In payments, there are two types of fraud — criminal fraud and friendly fraud. Both result in chargebacks and associated fees and expenses for the merchant. However, there are some critical differences. True criminal fraud involves the theft of a card or card details, which the criminal then uses fraudulently to illegally .....",
+          "day": "14",
+          "month": "DEC",
+          "image": "medium",
+          "link": "https://leisurepay.medium.com/friendly-fraud-the-years-ahead-900378a5a3ef"
+        },
+        {
+          "title": "A New Approach to Chargeback Fraud",
+          "description": "Chargebacks are a fast-growing problem for merchants around the world. With the widespread cultural shift to online business and card-not-present transactions, businesses are struggling with unprecedented levels of fraud. The average US retailer .....",
+          "day": "03",
+          "month": "DEC",
+          "image": "medium",
+          "link": "https://leisurepay.medium.com/a-new-approach-to-chargeback-fraud-739d6c9cbf3f"
+        },
+        {
+          "title": "LeisurePay Announces Partnership and New Banking Options for Minority Run Businesses",
+          "description": "The forward-thinking banking system is proud to announce its partnership with the first wholly owned Black Acquiring bank. LeisurePay adds there are only 19 Black-owned banks in America and LeisurePay is paying it forward by investing in minority-run business. Through this partnership .....",
+          "day": "05",
+          "month": "NOV",
+          "image": "newswire",
+          "link": "https://www.einnews.com/pr_news/555071252/leisurepay-announces-partnership-and-new-banking-options-for-minority-run-businesses"
+        }
+      ]
+    }
+  },
+  "roadmap": {
+    "header": {
+      "title": "We Are Headed to Great Places",
+      "body": "LeisurePay is disrupting the world of finance and offering our stakeholders incredible value and stability. Launched in 2021, we are creating a safe, secure decentralized merchant and customer platform for individuals seeking security and peace of mind."
+    },
+    "content": {
+      "title": "The LeisurePay Journey",
+      "body": "Our focus is on enabling payment processing in sectors that are often hard to understand."
+    },
+    "cards": [
+      {
+        "number": "Q4",
+        "year": 2021,
+        "content": "Launch of Leisure Pay Token Private Sale",
+        "bgColor": "#64d1da"
+      },
+      {
+        "number": "Q1",
+        "year": 2022,
+        "content": "Leisure Pay Transactional Coin Plugin",
+        "bgColor": "#9dca00"
+      },
+      {
+        "number": "Q2",
+        "content": "Merchant Reserve & Sales Smart Contracts",
+        "year": "2022",
+        "bgColor": "#7f00ff"
+      },
+      {
+        "number": "Q3",
+        "content": "Merchant Query, Refund & Chargeback Smart Contract",
+        "year": "2022",
+        "bgColor": "#e24956"
+      },
+      {
+        "number": "Q4",
+        "content": "Europe EMI launch",
+        "year": "2022",
+        "bgColor": "#157cdb"
+      },
+      {
+        "number": "Q4",
+        "year": 2022,
+        "content": "FDIC Insured Stable Coin Launch on LPY platform",
+        "bgColor": "orange"
+      }
+    ]
+  },
+  "partners": {
+    "header": {
+      "title": "OUR PARTNERS",
+      "body": "LeisurePay is growing rapidly and disrupting traditional banking and investment channels by offering stable, transparent, flexible, and profitable cryptocurrency, investment, and credit tools. We are a unique minority-owned, future-focused business building a partnership of like-minded companies who are looking to make real change in the world."
+    },
+    "content": {
+      "title": "Join the LeisurePay Revolution",
+      "body": "LeisurePay is about more than just new banking, finance, and investment options. We are looking to build cross-functional partnerships that extend our message and build on our success. Would you like to join us? Contact a partnership specialist to learn more."
+    }
+  },
+  "tokenpurchase": {
+    "crypto": "BNB",
+    "fiat": "ACH/CHECK",
+    "buyTokens": "Buy Tokens",
+    "buyTokensMustConnect": "Buy Tokens (must connect)",
+    "crowdsaleTitle": "Presale",
+    "priceIsApproximate": "price is approximate",
+    "inventoryLabel": "Inventory:",
+    "usdFieldNote": "(bnb price will calculate from usd field)",
+    "presaleWarningLine1": "All tokens purchased through the Presale are purchased in BNB.",
+    "presaleWarningLine2": "Price of BNB may vary, tokens will be distributed based on BNB value.",
+    "disconnected": "Disconnected",
+    "fullName": "Full Name",
+    "purchasePrice": "Purchase Price",
+    "emailAddress": "Email Address",
+    "lpyWalletLabel": "LPY Wallet (BSC)"
+  }
+}

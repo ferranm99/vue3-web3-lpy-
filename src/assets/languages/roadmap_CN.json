@@ -1,0 +1,48 @@
+﻿{
+  "header": {
+    "title": "我们正走向伟大的地方",
+    "body": "LeisurePay 正在颠覆金融世界，为我们的利益相关者提供令人难以置信的价值和稳定性。我们于 2021 年推出，正在为寻求安全和放心的个人创建一个安全、可靠的去中心化商家和客户平台。"
+  },
+  "content": {
+    "title": "LeisurePay 之旅",
+    "body": "我们的重点是在通常难以理解的领域实现支付处理。"
+  },
+  "cards": [
+    {
+      "number": "Q4",
+      "year": 2021,
+      "content": "启动 Leisure Pay 代币私募",
+      "bgColor": "#64d1da"
+    },
+    {
+      "number": "Q1",
+      "year": 2022,
+      "content": "休闲支付交易币插件",
+      "bgColor": "#9dca00"
+    },
+    {
+      "number": "Q2",
+      "content": "商户储备和销售智能合约",
+      "year": "2022",
+      "bgColor": "#7f00ff"
+    },
+    {
+      "number": "Q3",
+      "content": "商户查询、退款和退单智能合约",
+      "year": "2022",
+      "bgColor": "#e24956"
+    },
+    {
+      "number": "Q4",
+      "content": "欧洲 EMI 发布",
+      "year": "2022",
+      "bgColor": "#157cdb"
+    },
+    {
+      "number": "Q4",
+      "year": 2022,
+      "content": "FDIC 为 LPY 投保稳定币",
+      "bgColor": "orange"
+    }
+  ]
+}

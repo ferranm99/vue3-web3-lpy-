@@ -1,0 +1,48 @@
+{
+  "header": {
+    "title": "We Are Headed to Great Places",
+    "body": "LeisurePay is disrupting the world of finance and offering our stakeholders incredible value and stability. Launched in 2021, we are creating a safe, secure decentralized merchant and customer platform for individuals seeking security and peace of mind."
+  },
+  "content": {
+    "title": "The LeisurePay Journey",
+    "body": "Our focus is on enabling payment processing in sectors that are often hard to understand."
+  },
+  "cards": [
+    {
+      "number": "Q4",
+      "year": 2021,
+      "content": "Launch of Leisure Pay Token Private Sale",
+      "bgColor": "#64d1da"
+    },
+    {
+      "number": "Q1",
+      "year": 2022,
+      "content": "Leisure Pay Transactional Coin Plugin",
+      "bgColor": "#9dca00"
+    },
+    {
+      "number": "Q2",
+      "content": "Merchant Reserve & Sales Smart Contracts",
+      "year": "2022",
+      "bgColor": "#7f00ff"
+    },
+    {
+      "number": "Q3",
+      "content": "Merchant Query, Refund & Chargeback Smart Contract",
+      "year": "2022",
+      "bgColor": "#e24956"
+    },
+    {
+      "number": "Q4",
+      "content": "Europe EMI launch",
+      "year": "2022",
+      "bgColor": "#157cdb"
+    },
+    {
+      "number": "Q4",
+      "year": 2022,
+      "content": "FDIC Insured Stable Coin Launch on LPY platform",
+      "bgColor": "orange"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "crypto":"BNB",
+  "fiat":"ACH/CHECK",
+  "buyTokens":"토큰 구매",
+  "buyTokensMustConnect":"토큰 구매 (연결해야)",
+  "crowdsaleTitle": "사전 판매",
+  "priceIsApproximate":"가격은 대략적인",
+  "inventoryLabel":"스톡:",
+  "usdFieldNote":"(BNB가격은USD필드에서 계산됩니다.)",
+  "presaleWarningLine1":"프리세일을 통해 구매한 모든 토큰은 BNB에서 구매.",
+  "presaleWarningLine2":"BNB의 가격은 변동될 수 있으며, 토큰은 BNB 가치에 따라 분배됩니다.",
+
+  "disconnected":"Disconnected",
+  "fullName":"Full Name",
+  "purchasePrice":"Purchase Price",
+  "emailAddress":"Email Address",
+  "lpyWalletLabel":"LPY Wallet (BSC)"
+
+}

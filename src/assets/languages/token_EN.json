@@ -1,0 +1,112 @@
+{
+  "header": {
+    "title": "Together We Can Make Change",
+    "body": "Through our Cryptocurrency ecosystem our goal is to bring truth in payment networks and weed out fraud. Join the fight and together we can make change.",
+    "headerButtonText": "View Lite Paper",
+    "headerButtonUrl":"https://drive.google.com/file/d/1thieaMdzg_NDVeZxtyCd5cjEBfYIVTG1/view"
+  },
+  "content": {
+    "supply": {
+      "title": "Learn About $LPY",
+      "body": "Total supply: 10 billion",
+      "tagline": "51% available for private sale"
+    },
+    "allocations": [
+      {
+        "percent": "40",
+        "title": "marketing and promotion",
+        "bgColor": "#dcec82"
+      },
+      {
+        "percent": "20",
+        "title": "management and legal",
+        "bgColor": "#bde1e6"
+      },
+      {
+        "percent": "20",
+        "title": "bank development",
+        "bgColor": "#fae6c9"
+      },
+      {
+        "percent": "10",
+        "bgColor": "#e8e3f6",
+        "title": "maintained reserved"
+      },
+      {
+        "percent": "10",
+        "bgColor": "#f9fcbd",
+        "title": "system develoment"
+      }
+    ],
+    "purchase": {
+      "title": "Why You Should Purchase LeisurePay Tokens",
+      "list": [
+        "Industry-leading payment team",
+        "Profitable company",
+        "Over 2B+ in merchant portfolios going live by 12.30.22",
+        "Partners with the first black acquirer in U.S. history!",
+        "The only wholly black-owned bank in the U.S.",
+        "Patent-pending technology",
+        "50% merchant discount on fees when using $LPY"
+      ],
+      "signUpButtonText": "Buy $LPY Now"
+    },
+    "progress": {
+      "title": "LeisurePay Milestones",
+      "milestones": [
+        {
+          "month": "OCT",
+          "year": "2020",
+          "content": "Bank agreement formally signed."
+        },
+        {
+          "month": "JAN",
+          "year": "2021",
+          "content": "Bank signs technology processor to acquire a BIN and expand network access."
+        },
+        {
+          "month": "AUG",
+          "year": "2021",
+          "content": "Testing completed for creation of RCC/ECI file and of Plaid."
+        },
+        {
+          "month": "SEP",
+          "year": "2021",
+          "content": "First merchants onboarded to the new bank technology platform."
+        }
+      ],
+      "viewBlogsButtonText": "View All Blogs"
+    },
+    "journey": {
+      "title": "LeisurePay Journey",
+      "description": "Our pathway to public exchange access of the Leisure Pay $LPY Token.",
+      "timeline": [
+        {
+          "quarter": "4",
+          "year": "2021",
+          "content": "Launch of LeisurePay token in a private sale."
+        },
+        {
+          "quarter": "4",
+          "year": "2021",
+          "content": "In Talks with Multiple Exchanges."
+        },
+        {
+          "quarter": "1",
+          "year": "2022",
+          "content": "Signed IEO, Listing on First CEX."
+        },
+        {
+          "quarter": "1",
+          "year": "2022",
+          "content": "Listing on Second Exchange 7 days after IEO."
+        }
+      ]
+    },
+    "discover": {
+      "title": "Leisure Pay $LPY",
+      "content": "Join the community and support the cause",
+      "getStartedButtonText": "Buy Now"
+    }
+  }
+}

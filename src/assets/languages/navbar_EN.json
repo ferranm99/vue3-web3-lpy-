@@ -1,0 +1,34 @@
+{
+  "signupButtonText":"Sign Up",
+  "menuItems": {
+    "Home":{
+      "text":"Home",
+      "route":true
+    },
+    "Token":{
+      "text":"Token",
+      "route":true
+    },
+    "Staking":{
+      "text":"Staking",
+      "route":true
+    },
+    "Brand":{
+      "text":"Co-Branded Cards",
+      "route":true
+    },
+    "Update":{
+      "text":"News & Updates",
+      "route":true
+    },
+    "Roadmap":{
+      "text":"Roadmap",
+      "route":true
+    },
+    "Partner":{
+      "text":"Partner",
+      "route":true
+    }
+    
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "signupButtonText":"가입하기",
+  "menuItems": {
+    "Home":{
+      "text":"집",
+      "route":true
+    },
+    "Token":{
+      "text":"토큰",
+      "route":true
+    },
+    "Staking":{
+      "text":"스테이킹",
+      "route":true
+    },
+    "Brand":{
+      "text":"공동 브랜드 카드",
+      "route":true
+    },
+    "Update":{
+      "text":"뉴스 및 업데이트",
+      "route":true
+    },
+    "Roadmap":{
+      "text":"로드맵",
+      "route":true
+    },
+    "Partner":{
+      "text":"파트너십",
+      "route":true
+    }
+    
+  }
+}

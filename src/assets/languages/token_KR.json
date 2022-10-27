@@ -1,0 +1,112 @@
+{
+    "header": {
+      "title": "함께려면 변화를 만들 수 있다",
+      "body": "우리의 목표는 우리의 암호화폐 생태계를 통해 지불 네트워크에 진실을 가져오고 사기를 제거하는 것입니다. 싸움에 참여하고 함께 변화를 만들 수 있습니다.",
+      "headerButtonText": "라이트 페이퍼 보기",
+      "headerButtonUrl":"https://drive.google.com/file/d/1thieaMdzg_NDVeZxtyCd5cjEBfYIVTG1/view"
+    },
+    "content": {
+      "supply": {
+        "title": "$LPY에 대해 알아보기",
+        "body": "총 공급량: 100억",
+        "tagline": "51%는 비공개 판매 가능"
+      },
+      "allocations": [
+        {
+          "percent": "40",
+          "title": "마케팅 및 판촉",
+          "bgColor": "#dcec82"
+        },
+        {
+          "percent": "20",
+          "title": "관리 및 법률",
+          "bgColor": "#bde1e6"
+        },
+        {
+          "percent": "20",
+          "title": "은행 발전",
+          "bgColor": "#fae6c9"
+        },
+        {
+          "percent": "10",
+          "bgColor": "#e8e3f6",
+          "title": "예약 유지"
+        },
+        {
+          "percent": "10",
+          "bgColor": "#f9fcbd",
+          "title": "시스템 개발"
+        }
+      ],
+      "purchase": {
+        "title": "LeisurePay 토큰을 구매해야 하는 이유",
+        "list": [
+          "업계 최고의 결제팀",
+          "수익을 내는 기업",
+          "20억 이상의 판매자 포트폴리오가 12.30.22까지 출시된다",
+          "미국 역사상 최초의 흑인 인수자와 파트너 관계!",
+          "미국에서 유일한 흑인 소유 은행",
+          "특허 출원 중인 기술",
+          "$LPY 사용시 가맹점 수수료 50% 할인"
+        ],
+        "signUpButtonText": "지금 $LPY 구매"
+      },
+      "progress": {
+        "title": "레저페이 마일스톤",
+        "milestones": [
+          {
+            "month": "10월",
+            "year": "2020",
+            "content": "은행 계약이 공식적으로 서명되었습니다."
+          },
+          {
+            "month": "1월",
+            "year": "2021",
+            "content": "은행은 BIN을 획득하고 네트워크 액세스를 확장하기 위해 기술 프로세서에 서명했다."
+          },
+          {
+            "month": "8월",
+            "year": "2021",
+            "content": "RCC/ECI 파일 및 Plaid 생성에 대한 테스트가 완료되었다."
+          },
+          {
+            "month": "9월",
+            "year": "2021",
+            "content": "새로운 은행 기술 플랫폼에 온보딩된 최초의 판매자."
+          }
+        ],
+        "viewBlogsButtonText": "모든 블로그 보기"
+      },
+      "journey": {
+        "title": "레저페이 여정",
+        "description": "Leisure Pay $LPY 토큰의 공개 교환 액세스 경로",
+        "timeline": [
+          {
+            "quarter": "4",
+            "year": "2021",
+            "content": "비공개 판매로 LeisurePay 토큰 출시."
+          },
+          {
+            "quarter": "4",
+            "year": "2021",
+            "content": "여러 거래소와 논의 중."
+          },
+          {
+            "quarter": "1",
+            "year": "2022",
+            "content": "IEO 서명, 첫 번째 CEX에 상장."
+          },
+          {
+            "quarter": "1",
+            "year": "2022",
+            "content": "IEO 7일 후 2차 거래소 상장."
+          }
+        ]
+      },
+      "discover": {
+        "title": "레저페이 $LPY",
+        "content": "커뮤니티에 가입하고 대의를 지원하십시오",
+        "getStartedButtonText": "바로 구매"
+      }
+    }
+  }

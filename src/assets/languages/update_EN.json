@@ -1,0 +1,51 @@
+{
+  "header": {
+    "title": "NEWS & UPDATES",
+    "body": "Official news and updates released publicly. All the latest in what LeisurePay is doing in the community, and where we are headed can be found below."
+  },
+  "content": {
+    "title": "NEWS & UPDATES",
+    "articles": [
+      {
+        "title":"Announcing the $LPY token swap",
+        "description":"To prepare for our upcoming duel CEX listings, staking, and to accelerate our pathway towards decentralized payments, we are announcing a smart contract upgrade and token swap due to take place on the 28th of January 2022.\n\nWe have updated our token and its smart contract address to the new version. V2 token will be listed...",
+        "day":"29",
+        "month":"JAN",
+        "image":"medium",
+        "link":"https://leisurepay.medium.com/announcing-the-lpy-token-swap-4b2d75bb7ef2"
+      },
+      {
+        "title": "Using Blockchain Technology to Prevent Fraud",
+        "description": "Enhanced security is a leading benefit of blockchain technology. One of the underlying drivers behind its increasing popularity is its ability to share data in a fast and highly secure way, without any one entity having to assume responsibility for safeguarding the data.Today we’ll take a closer look at blockchain technology and.....",
+        "day": "05",
+        "month": "JAN",
+        "image": "medium",
+        "link": "https://leisurepay.medium.com/using-blockchain-technology-to-prevent-fraud-e201dfbd574"
+      },
+      {
+        "title": "Friendly Fraud: The Years Ahead",
+        "description": "In payments, there are two types of fraud — criminal fraud and friendly fraud. Both result in chargebacks and associated fees and expenses for the merchant. However, there are some critical differences. True criminal fraud involves the theft of a card or card details, which the criminal then uses fraudulently to illegally .....",
+        "day": "14",
+        "month": "DEC",
+        "image": "medium",
+        "link": "https://leisurepay.medium.com/friendly-fraud-the-years-ahead-900378a5a3ef"
+      },
+      {
+        "title": "A New Approach to Chargeback Fraud",
+        "description": "Chargebacks are a fast-growing problem for merchants around the world. With the widespread cultural shift to online business and card-not-present transactions, businesses are struggling with unprecedented levels of fraud. The average US retailer .....",
+        "day": "03",
+        "month": "DEC",
+        "image": "medium",
+        "link": "https://leisurepay.medium.com/a-new-approach-to-chargeback-fraud-739d6c9cbf3f"
+      },
+      {
+        "title": "LeisurePay Announces Partnership and New Banking Options for Minority Run Businesses",
+        "description": "The forward-thinking banking system is proud to announce its partnership with the first wholly owned Black Acquiring bank. LeisurePay adds there are only 19 Black-owned banks in America and LeisurePay is paying it forward by investing in minority-run business. Through this partnership .....",
+        "day": "05",
+        "month": "NOV",
+        "image": "newswire",
+        "link": "https://www.einnews.com/pr_news/555071252/leisurepay-announces-partnership-and-new-banking-options-for-minority-run-businesses"
+      }
+    ]
+  }
+}

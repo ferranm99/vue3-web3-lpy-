@@ -1,0 +1,48 @@
+{
+    "header": {
+      "title": "우리는 위대한 곳으로 향하고 있다",
+      "body": "LeisurePay는 금융 세계를 혼란에 빠뜨리고 이해 관계자에게 놀라운 가치와 안정성을 제공한다. 2021년에 출시된 우리는 보안과 마음의 평화를 원하는 개인을 위한 안심하고 안전한 분산형 가맹점 및 고객 플랫폼을 만들고 있다."
+    },
+    "content": {
+      "title": "레저페이 여정",
+      "body": "우리의 초점은 종종 이해하기 어려운 부문에서 지불 처리를 가능하게 하는 것입니다."
+    },
+    "cards": [
+      {
+        "number": "Q4",
+        "year": 2021,
+        "content": "Leisure Pay Token Private Sale 런칭",
+        "bgColor": "#64d1da"
+      },
+      {
+        "number": "Q1",
+        "year": 2022,
+        "content": "레저페이 트랜잭션 코인 플러그인",
+        "bgColor": "#9dca00"
+      },
+      {
+        "number": "Q2",
+        "content": "판매자 예약 및 판매 스마트 계약",
+        "year": "2022",
+        "bgColor": "#7f00ff"
+      },
+      {
+        "number": "Q3",
+        "content": "판매자 쿼리, 환불 및 차지백 스마트 계약",
+        "year": "2022",
+        "bgColor": "#e24956"
+      },
+      {
+        "number": "Q4",
+        "content": "유럽 EMI 출시",
+        "year": "2022",
+        "bgColor": "#157cdb"
+      },
+      {
+        "number": "Q4",
+        "year": 2022,
+        "content": "LPY 플랫폼에서 FDIC 보험 스테이블 코인 출시",
+        "bgColor": "orange"
+      }
+    ]
+  }

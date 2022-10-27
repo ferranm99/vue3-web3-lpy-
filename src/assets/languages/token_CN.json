@@ -1,0 +1,113 @@
+﻿{
+  "header": {
+    "title": "我们可以一起改变",
+    "body": "通过我们的加密货币生态系统，我们的目标是为支付网络带来真相并消除欺诈。加入战斗，我们可以一起做出改变。",
+    "headerButtonText": "查看白皮书精简版",
+    "buyTokensButtonText": "现在购买 $LPY",
+    "headerButtonUrl":"https://drive.google.com/file/d/1thieaMdzg_NDVeZxtyCd5cjEBfYIVTG1/view"
+  },
+  "content": {
+    "supply": {
+      "title": "了解 $LPY",
+      "body": "总供应量：100亿",
+      "tagline": "51% 可供私人出售"
+    },
+    "allocations": [
+      {
+        "percent": "40",
+        "title": "营销和推广",
+        "bgColor": "#dcec82"
+      },
+      {
+        "percent": "20",
+        "title": "管理和法律",
+        "bgColor": "#bde1e6"
+      },
+      {
+        "percent": "20",
+        "title": "银行发展",
+        "bgColor": "#fae6c9"
+      },
+      {
+        "percent": "10",
+        "bgColor": "#e8e3f6",
+        "title": "维持储备"
+      },
+      {
+        "percent": "10",
+        "bgColor": "#f9fcbd",
+        "title": "系统开发"
+      }
+    ],
+    "purchase": {
+      "title": "为什么要购买LeisurePay代币",
+      "list": [
+        "行业领先的支付团队",
+        "盈利公司",
+        "至2022年12月30日，超过20亿的商家组合上线",
+        "与美国历史上第一位黑人收购者合作！",
+        "美国唯一一家由黑人全独资经营的银行",
+        "正在申请专利的技术",
+        "使用$LPY时商家可享受50%的费用折扣"
+      ],
+      "signUpButtonText": "现在购买 $LPY"
+    },
+    "progress": {
+      "title": "LeisurePay 里程碑",
+      "milestones": [
+        {
+          "month": "十月",
+          "year": "2020",
+          "content": "银行协议正式签署。"
+        },
+        {
+          "month": "一月",
+          "year": "2021",
+          "content": "银行签署技术处理器以获取 BIN 并扩展网络访问权限。"
+        },
+        {
+          "month": "八月",
+          "year": "2021",
+          "content": "已完成创建 RCC/ECI 文件和 Plaid 的测试。"
+        },
+        {
+          "month": "九月",
+          "year": "2021",
+          "content": "首批加入新银行技术平台的商户。"
+        }
+      ],
+      "viewBlogsButtonText": "查看所有博客"
+    },
+    "journey": {
+      "title": "LeisurePay 旅程",
+      "description": "我们获得 Leisure Pay $LPY 代币的公共交易通道。",
+      "timeline": [
+        {
+          "quarter": "4",
+          "year": "2021",
+          "content": "在私人销售中推出 LeisurePay 代币。"
+        },
+        {
+          "quarter": "4",
+          "year": "2021",
+          "content": "与多家交易所进行会谈。"
+        },
+        {
+          "quarter": "1",
+          "year": "2022",
+          "content": "签署IEO，首个CEX上市。"
+        },
+        {
+          "quarter": "1",
+          "year": "2022",
+          "content": "IEO7天后在第二交易所上市。"
+        }
+      ]
+    },
+    "discover": {
+      "title": "LeisurePay $LPY",
+      "content": "加入社区，支持事业",
+      "getStartedButtonText": "立即购买"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "crypto":"BNB",
+  "fiat":"ACH/CHECK",
+  "buyTokens":"Buy Tokens",
+  "buyTokensMustConnect":"Buy Tokens (must connect)",
+  "crowdsaleTitle": "Presale",
+  "priceIsApproximate":"price is approximate",
+  "inventoryLabel":"Inventory:",
+  "usdFieldNote":"(bnb price will calculate from usd field)",
+  "presaleWarningLine1":"All tokens purchased through the Presale are purchased in BNB.",
+  "presaleWarningLine2":"Price of BNB may vary, tokens will be distributed based on BNB value.",
+
+  "disconnected":"Disconnected",
+  "fullName":"Full Name",
+  "purchasePrice":"Purchase Price",
+  "emailAddress":"Email Address",
+  "lpyWalletLabel":"LPY Wallet (BSC)"
+
+}

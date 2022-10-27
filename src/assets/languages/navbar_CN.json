@@ -1,0 +1,34 @@
+{
+  "signupButtonText":"注册",
+  "menuItems": {
+    "Home":{
+      "text":"首页",
+      "route":true
+    },
+    "Token":{
+      "text":"代幣",
+      "route":true
+    },
+    "Staking":{
+      "text":"質押",
+      "route":true
+    },
+    "Brand":{
+      "text":"联合品牌信用卡",
+      "route":true
+    },
+    "Update":{
+      "text":"新闻与动态",
+      "route":true
+    },
+    "Roadmap":{
+      "text":"路線圖",
+      "route":true
+    },
+    "Partner":{
+      "text":"夥伴關係",
+      "route":true
+    }
+    
+  }
+}

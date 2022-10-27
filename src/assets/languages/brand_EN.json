@@ -1,0 +1,57 @@
+{
+  "header": {
+    "title": "Company Branded and Co-Branded Cards",
+    "body": "Gain the security of cryptocurrency and blockchain technology with the convenience of a branded or co-branded card from LeisurePay. Enjoy rewards for everyday spending and earn points. Learn more by contacting a specialist today.",
+    "quoteButtonText": "Get a Quote"
+  },
+  "content": {
+    "title": "COMPANY BRANDED AND CO-BRANDED CARDS",
+    "body": [
+      {
+        "title": "Partner With LeisurePay for Your Own Branded Card",
+        "description": "",
+        "content": "Attract new customers and extend your brand’s reach with branded card options from LeisurePay. Increase sales while delivering outstanding value to your most loyal customers. LeisurePay makes the whole process simple – contact us today to learn more."
+      },
+      {
+        "title": "Co-Branded Cards Issued by LeisurePay",
+        "description": "LeisurePay can help empower your card program.",
+        "content": "Draw on LeisurePay's industry expertise to help your co-brand program succeed. Extend incredible value and convenience to your customers while relying on LeisurePay’s rock-solid financial backing and payments network"
+      }
+    ],
+    "contactUsButtonText": "Speak to a Card Specialist Now"
+  },
+  "faq": {
+    "title": "FREQUENTLY ASKED QUESTIONS",
+    "description": "Get the answers you need about building loyalty programs with LeisurePay.",
+    "qaList": [
+      {
+        "q": "How do I get a credit card with my company name and logo on it?",
+        "a": "Since we are partnered with a Card issuing bank LeisurePay is able to provide a full service product launch. Merchants should plan on a minimum of eight weeks in order to launch a program; however, timing depends on a number of factors including the issuer, schedules and the complexity of the program. To get started merchants should do the following steps:",
+        "details": [
+          "Develop a business plan outlining the estimated size and demographics of your existing customer base.",
+          "Outline the key benefits that will distinguish your co-brand card in the market.",
+          "Contact a LeisurePay representative today."
+        ]
+      },
+      {
+        "q": "What are Co-Branded partnerships?",
+        "a": "A co-brand program is a three-party partnership between a merchant, a network, and an issuer. The co-branded card will usually contain the merchant’s or brand’s name, logo, and other identifying features. It will also provide specific benefits and rewards that are only available to cardholders.",
+        "details": []
+      },
+      {
+        "q": "How is LeisurePay involved in the Co-Branded process?",
+        "a": "LeisurePay will work with both the merchant and our issuer to launch and grow a successful co-branded card. Our streamlined process means we can get your branded card rolled out faster than most competitors.",
+        "details": []
+      },
+      {
+        "q": "Is my business large enough for the Leisurepay Co-Branded program?",
+        "a": "Because of flexible options, a business of almost any size is able to launch a co-branded card. For small companies, the benefits can be even larger, since the co-branded card gives you instant status and credibility.",
+        "details": []
+      }
+    ]
+  },
+  "contact": {
+    "title": "Speak With a Branded and Co-Branded Card Specialist Now",
+    "getStartedButtonText": "Get Started"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "header": {
+    "title": "Earn Rewards By Staking $LPY",
+    "body": "Put your crypto to work and start earning rewards on it. Staking $LPY is a secure, profitable way to maximize your coin holdings that would otherwise be sitting in your LPY account. Once you have staked your assets, you can earn staking rewards on top of your holdings. Then, keep the growth going by compounding those future rewards.",
+    "quoteButtonText": "Speak to a Staking Specialist Now"
+  },
+  "content": {
+    "title": "What Are Staking Rewards?",
+    "easy": [
+      {
+        "title": "Select a staking amount"
+      },
+      {
+        "title": "Choose a staking plan"
+      },
+      {
+        "title": "Earn rewards"
+      }
+    ],
+    "description": "You can earn rewards when you stake LeisurePay tokens for a period of time as an incentive to acquire & hold onto the LeisurePay token. To earn staking rewards, simply select the terms you wish to stake and a LeisurePay representative will contact you with your staking contract.",
+    "rewardMonthlyStaking":"MONTH STAKING",
+    "rewardYearlyRewards":"Yearly Reward",
+    "rewards": [
+      {
+        "percent": "12%",
+        "color": "#0033ad",
+        "number": "6"
+      },
+      {
+        "percent": "20%",
+        "color": "#e6007a",
+        "number": "9"
+      },
+      {
+        "percent": "50%",
+        "color": "#d83aeb",
+        "number": "12"
+      }
+    ],
+    "footer": "Staking is your way to earn rewards for holding your LeisurePay. The more you buy and stake, the more you earn!"
+  }
+}

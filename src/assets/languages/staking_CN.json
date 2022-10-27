@@ -1,0 +1,42 @@
+﻿{
+  "header": {
+    "title": "质押 $LPY 赚取奖励",
+    "body": "让您的加密货币开始工作并开始赚取奖励。质押 $LPY 是一种安全、有利可图的方式，可以最大限度地增加您的代币持有量，否则您将持有 LPY 账户。一旦您质押了您的资产，您就可以在您的持股之上获得质押奖励。然后，通过复合这些未来的奖励来保持增长。",
+    "quoteButtonText": "立即与 Staking 专家交谈"
+  },
+  "content": {
+    "title": "什么是质押奖励？",
+    "easy": [
+      {
+        "title": "选择质押金额"
+      },
+      {
+        "title": "选择一个质押计划"
+      },
+      {
+        "title": "获得奖励"
+      }
+    ],
+    "description": "您可以在您质押 LeisurePay 代币一段时间后获得奖励，作为获取和持有 LeisurePay 代币的激励。要获得质押奖励，只需选择您希望质押的条款，LeisurePay 代表将与您联系与您的质押合约。",
+    "rewardMonthlyStaking":"质押所需月份",
+    "rewardYearlyRewards":"年度奖励",
+    "rewards": [
+      {
+        "percent": "12%",
+        "color": "#0033ad",
+        "number": "6"
+      },
+      {
+        "percent": "20%",
+        "color": "#e6007a",
+        "number": "9"
+      },
+      {
+        "percent": "50%",
+        "color": "#d83aeb",
+        "number": "12"
+      }
+    ],
+    "footer": "质押是您持有 LeisurePay 获得奖励的方式。您购买和质押的越多，您赚取的越多！"
+  }
+}

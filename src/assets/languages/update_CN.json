@@ -1,0 +1,43 @@
+﻿{
+  "header": {
+    "title": "新闻和更新",
+    "body": "公开发布的官方新闻和更新。LeisurePay 在社区中所做的所有最新工作以及我们的发展方向都可以在下面找到。"
+  },
+  "content": {
+    "title": "新闻和更新",
+    "articles": [
+      {
+        "title": "使用区块链技术防止欺诈",
+        "description": "增强的安全性是区块链技术的主要优势。其日益普及的潜在驱动力之一是它能够以快速且高度安全的方式共享数据，而无需任何实体承担保护数据的责任.今天我们将仔细研究区块链技术和.....",
+        "day": "05",
+        "month": "一月",
+        "image": "中等",
+        "link": "https://leisurepay.medium.com/using-blockchain-technology-to-prevent-fraud-e201dfbd574"
+      },
+      {
+        "title": "友善欺诈： 未来的岁月",
+        "description": "在支付中，有两种类型的欺诈——犯罪欺诈和友善欺诈。两者都会导致商家拒付和相关费用和开支。但是，存在一些关键的区别。真正的犯罪欺诈涉及盗窃卡或卡详细信息，然后犯罪分子以欺诈方式非法使用......",
+        "day": "14",
+        "month": "十二月",
+        "image": "中等",
+        "link": "https://leisurepay.medium.com/friendly-fraud-the-years-ahead-900378a5a3ef"
+      },
+      {
+        "title": "一种处理拒付欺诈的新方法",
+        "description": "退款是全球商家面临的一个快速增长的问题。随着文化向在线业务和无卡交易的广泛转变，企业正与前所未有的欺诈水平作斗争。普通的美国零售商......",
+        "day": "03",
+        "month": "十二月",
+        "image": "中等",
+        "link": "https://leisurepay.medium.com/a-new-approach-to-chargeback-fraud-739d6c9cbf3f"
+      },
+      {
+        "title": "LeisurePay 宣布为少数族裔经营的企业建立合作伙伴关系和新的银行业务选项",
+        "description": "具有前瞻性的银行系统自豪地宣布与第一家全资黑人收购银行建立合作伙伴关系。LeisurePay补充说，美国只有19家黑人拥有的银行，LeisurePay正在通过投资少数人经营的银行来支付它业务。通过这种伙伴关系......",
+        "day": "05",
+        "month": "十一月",
+        "image": "新闻专线",
+        "link": "https://www.einnews.com/pr_news/555071252/leisurepay-announces-partnership-and-new-banking-options-for-minority-run-businesses"
+      }
+    ]
+  }
+}
